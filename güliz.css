@@ -1,0 +1,11 @@
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    background: pink;
+    text-align: center;
+}
+
+body {
+    width: 30px;
+    background-color: rgb(219, 114, 188);
+}
